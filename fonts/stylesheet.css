@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Choplin-ExtraLight-DEMO';
+    src: url('Choplin-ExtraLight-DEMO.eot');
+    src: url('Choplin-ExtraLight-DEMO.eot?#iefix') format('embedded-opentype'),
+        url('Choplin-ExtraLight-DEMO.woff2') format('woff2'),
+        url('Choplin-ExtraLight-DEMO.woff') format('woff'),
+        url('Choplin-ExtraLight-DEMO.ttf') format('truetype'),
+        url('Choplin-ExtraLight-DEMO.svg#Choplin-ExtraLight-DEMO') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AppleGaramond';
+    src: url('AppleGaramond.eot');
+    src: url('AppleGaramond.eot?#iefix') format('embedded-opentype'),
+        url('AppleGaramond.woff2') format('woff2'),
+        url('AppleGaramond.woff') format('woff'),
+        url('AppleGaramond.ttf') format('truetype'),
+        url('AppleGaramond.svg#AppleGaramond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
